@@ -27,7 +27,7 @@ public class Main {
 //        info.setYearOfBirth(1990);
         
         info.showData();
-        System.out.println("________________");
+        
                 
     }
     
